@@ -1,0 +1,418 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 10 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5867
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 139.6248 0 Td (MINI PROJECT REPORT) Tj T* -139.6248 0 Td ET
+Q
+Q
+q
+1 0 0 1 54 713.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 18 Tf 22 TL (Student Record Management System Using Python and) Tj T* (MySQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 695.8898 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Submitted by:) Tj /F1 10 Tf ( ______________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 677.8898 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Course / Semester:) Tj /F1 10 Tf ( ___________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 659.8898 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (College:) Tj /F1 10 Tf ( _____________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 647.8898 cm
+Q
+q
+1 0 0 1 54 624.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (1. Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 566.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 42.5 Tm /F1 9.5 Tf 13 TL (The Student Record Management System is a desktop application developed using Python, Tkinter, and a MySQL) Tj T* (database. It allows an authorized user to add, view, search, update, and delete student records through a graphical) Tj T* (interface. Unlike an application that stores data only in temporary variables or local files, this project stores records) Tj T* (in a MySQL table so that the information remains available after the application is closed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 543.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (2. Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 524.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 To design a simple and user-friendly student record application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 505.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 To create and use a relational MySQL database and table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 486.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 To demonstrate INSERT, SELECT, UPDATE, and DELETE operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 467.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 To validate user input and handle duplicate email addresses and database errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 448.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 To verify that changes made in the application are reflected in MySQL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 425.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (3. Tools and Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.6378 288.8898 cm
+q
+.85098 .917647 .968627 rg
+n 0 132 480 -22 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 118 Tm (Component) Tj T* ET
+BT 1 0 0 1 156 118 Tm (Technology / Purpose) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 96 Tm (Programming language) Tj T* ET
+BT 1 0 0 1 156 96 Tm (Python 3) Tj T* ET
+BT 1 0 0 1 6 74 Tm (Graphical user interface) Tj T* ET
+BT 1 0 0 1 156 74 Tm (Tkinter and ttk) Tj T* ET
+BT 1 0 0 1 6 52 Tm (Database) Tj T* ET
+BT 1 0 0 1 156 52 Tm (MySQL Server) Tj T* ET
+BT 1 0 0 1 6 30 Tm (Database connector) Tj T* ET
+BT 1 0 0 1 156 30 Tm (mysql-connector-python) Tj T* ET
+BT 1 0 0 1 6 8 Tm (Development environment) Tj T* ET
+BT 1 0 0 1 156 8 Tm (Visual Studio Code / MySQL Workbench) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 132 m 480 132 l S
+n 0 0 m 480 0 l S
+n 0 0 m 0 132 l S
+n 480 0 m 480 132 l S
+n 0 110 m 480 110 l S
+n 0 88 m 480 88 l S
+n 0 66 m 480 66 l S
+n 0 44 m 480 44 l S
+n 0 22 m 480 22 l S
+n 150 0 m 150 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 54 265.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (4. Database Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 220.8898 cm
+q
+BT 1 0 0 1 0 29.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (Database name: ) Tj /F2 9.5 Tf (student_db) Tj /F1 9.5 Tf (. Table name: ) Tj /F2 9.5 Tf (students) Tj /F1 9.5 Tf (. The student_id field is an AUTO_INCREMENT primary key.) Tj T* (The email field is unique to prevent duplicate student email addresses. Name, email, course, and semester are) Tj T* (required; phone is optional. A semester value from 1 to 8 is accepted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 194.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 12 Tf 14 TL (Table fields) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.6378 48.88976 cm
+q
+.85098 .917647 .968627 rg
+n 0 140 480 -20 re f*
+0 0 0 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 5 127.5 Tm (Field) Tj T* ET
+BT 1 0 0 1 110 127.5 Tm (Data type) Tj T* ET
+BT 1 0 0 1 240 127.5 Tm (Constraint / use) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 5 107.5 Tm (student_id) Tj T* ET
+BT 1 0 0 1 110 107.5 Tm (INT) Tj T* ET
+BT 1 0 0 1 240 107.5 Tm (Primary key, auto increment) Tj T* ET
+BT 1 0 0 1 5 87.5 Tm (name) Tj T* ET
+BT 1 0 0 1 110 87.5 Tm (VARCHAR\(80\)) Tj T* ET
+BT 1 0 0 1 240 87.5 Tm (Required) Tj T* ET
+BT 1 0 0 1 5 67.5 Tm (email) Tj T* ET
+BT 1 0 0 1 110 67.5 Tm (VARCHAR\(120\)) Tj T* ET
+BT 1 0 0 1 240 67.5 Tm (Required, unique) Tj T* ET
+BT 1 0 0 1 5 47.5 Tm (course) Tj T* ET
+BT 1 0 0 1 110 47.5 Tm (VARCHAR\(60\)) Tj T* ET
+BT 1 0 0 1 240 47.5 Tm (Required) Tj T* ET
+BT 1 0 0 1 5 27.5 Tm (semester) Tj T* ET
+BT 1 0 0 1 110 27.5 Tm (TINYINT UNSIGNED) Tj T* ET
+BT 1 0 0 1 240 27.5 Tm (Required, 1\2268) Tj T* ET
+BT 1 0 0 1 5 7.5 Tm (phone) Tj T* ET
+BT 1 0 0 1 110 7.5 Tm (VARCHAR\(15\)) Tj T* ET
+BT 1 0 0 1 240 7.5 Tm (Optional) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 140 m 480 140 l S
+n 0 0 m 0 140 l S
+n 480 0 m 480 140 l S
+n 0 0 m 480 0 l S
+n 0 120 m 480 120 l S
+n 0 100 m 480 100 l S
+n 0 80 m 480 80 l S
+n 0 60 m 480 60 l S
+n 0 40 m 480 40 l S
+n 0 20 m 480 20 l S
+n 105 0 m 105 140 l S
+n 235 0 m 235 140 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+117 692.8898 300 18 re
+f*
+n
+142 674.8898 300 18 re
+f*
+n
+91 656.8898 300 18 re
+f*
+0 0 0 rg
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 122 697.8898 Tm
+(KESHAVA K) Tj
+T*
+ET
+BT
+1 0 0 1 147 679.8898 Tm
+(DBMS\054 BCA \050Hons\051\054 3rd Semester) Tj
+T*
+ET
+BT
+1 0 0 1 96 661.8898 Tm
+(RV University) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 272
+>>
+stream
+GarW3:MU"d&B4,6'^o]u`(Y@+`1t:9-l(I)].@_K'dL:Zr;'.IZ<L:_ab/Jt1IDEl'W&9Z^q7Ej7N`#D"6DY#q7tLa1SZ:"-pGk>L/Jo@HDJG\E(+g5+4`!i]LWuP1EUSJ!%OEI]rJN;\(aXAhdH.3rJ)Y\BX;<UR]an[p%^Wuo.E)/]CL:;W318[Nun;Pfo%N>l/-1PcSG-anNtT989iYQH*D6ta)o.OQ3%;m"3C-U7;ZIg3[11o,`7hEg-V4`@FPL1V#pMr6oeJ"~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1830
+>>
+stream
+Gau0D;,?43&:WeDb[VHs+\A.Mh0ia8G/Xb'BZmMY6:*#=W?I+NS^?^$qA\1GRfX$)m0Q'/-St@B1\Nb;4E0i2dspBdi9M?m^3ef60OK>hE^h`IL#`!cj.9>e)2o[H,:A?q&R+)p=$I7?HYD_JG=.a1kfRgK"j0[qE8[rK;APIZnJoi!;Pd?AK)%RRpJm_Vr7R)F9Nn^06TBW(iXM/gKmKI/(=3&5hR+/STY2j$p#Fn;P/+0#&t5/Zl\F'"#>ZUV#q;j,E_0]U70Y#5JE;rOdOY_DF-/^6=agSY$6i#19.JT/1kCj_ZfC9iA;NK*%,l<6o>=l#]^Z6krQXOu6_7.!ioM[)"YBnQ:IrkeOg&<V&n]1^a%(2fRP7m?A?G*.a;nELj>NiA5\d4$?mu_SE4^iEanL?uKVa+TU7p>"GpOa'VXI!(]!tgq.UGVn;biE.5p@b;9.ZIg.qDcQm<VjQAeS^NN0gQqdWiH68LLW[oZ-^m2alClMoZ.&cpQ%K"V[:f@!r2CLI<(#/oB=u,_H&)CRVT+NkWXj'`nChnS=$8I>(Y5V"')kV2l?)Lj?gMR`Kf]kus4TO-DCLEArIlq&O@l@``\+T-fiN)eq<D]i>dK9NI2<:k1A>fq";bk_$H*G2P^VQmS)kJ6Qkojdgt8i9`e,#-E9@EqDI!:3)Sk1t<<1Rjd634hEgF71`6oFE.d:j,\uh2kec.]3(D%MC-GIC*b[.Tif2TK7Xh1<;"Gf>!Aecqqe!mL7L$9nDc3X%\+>[/kAi!#Y&As:t3+E_XI)sl-7n"9\.J-iGA5RI/;*DUZ.L.R&"jS$R4[>[Bhr__)iRs/sISND%j_V6>d):.AfWbYmLGgMhbN*UCpr.GbI#L,.j[+W?g"rOW0B]Eejn,6Itq[PdR/kJ*J@7S:$hl?jP7qCt%!Q;ssdOs3CE-gLY9PkTp3kF`UN:\p*mam5m!RXC"W5&HX2>?N?,l>HEAgbUbEG0Tb&VE?Dnjcd/%\+Dj]O]\(YSAp+l:<(fQq9$\Q7r:lo$#l9e..P3`:WR)Ln_[)!$20GY/`UD*j$cf"R5KD1(%i(=6=cHZSlGC>,FJu29>=]L9W6Vn[%uMq?!Nq0S2Ecc(Krjs5(Ui5-CkQE,D5&N8*RAU#SEQ-*@BQ2B3l5+-WL<*lA)\QW[FOFGdqk&84u9B($6\&I1%Q,"eDo!Fd+7>q1LkAi'0DTo9RAp^d2`o&(cPddl"AK+hdC=2O-Zei-7WF=MM4X;$i[ctNuBtMR.B\?UM#G03Jo?h&^O+#c(d)hrhf1^k&r.40[mmV%+_dCSY3)1GGkbJG,LQ<QpcHN8Fj."'K-WLf^W#;*<n!\T_Bdm>(9(qWoZmEm_A8cIa8=*D_h%Eq<.AT5(]%_c'^cAl<=TO^"TQ)YI*1A:L@:O^0UD9X0,`N2lff^(i@jDc.[EKAg+VBfJ#4@(E,^,ZU&^/;IkR>4,0/)75f2EM!&c8c)Q+%n__aR8,eMY2/jR[3!gsWb?gl3@\YIW=#J$IP]7\'KPoTKE7/u-ipc!nA5MiJ&YjMJeI<PdnJ&Cb]^9+o)&ePKDC(UTL6em8f9*=N\!3d+,BP.JSu0.of='Y+`jl6s2R-_Sj"+Yc.AQ/dM)q;'9clgfNtjjRRq]M/PqEbk=l![`b3&!;FBO\u?DT%tYDa-"0/3KTV+/_2W77fud)o7onN31@$nh_r-R"qR-Z%La@3[:PGl=CHU#s+Le=-ZlI3J*bZ;'k]5P!V(?D%.^f;G%U$M90`$=\F#W#81,roHu)FT'o^Ya([mb7hVT\!n1/5ueo"O=[DR1DndkS!Nbee?UcLdds9MhL?A6mb@~>
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000429 00000 n 
+0000006348 00000 n 
+0000006455 00000 n 
+0000006562 00000 n 
+0000006674 00000 n 
+0000006793 00000 n 
+0000006995 00000 n 
+0000007359 00000 n 
+0000007411 00000 n 
+0000007613 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9536
+%%EOF
